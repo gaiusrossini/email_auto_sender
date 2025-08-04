@@ -1,0 +1,11 @@
+Hello {{ name }},
+
+Here is your personalized proposal:
+
+Service: {{ service }}
+Price: ${{ price }}
+
+Let us know if you have any questions.
+
+Best regards,
+Gaius Rossini

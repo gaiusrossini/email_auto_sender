@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environment
+.venv/
+
+# IDE (PyCharm)
+.idea/
+
+# Excel and data files
+*.xlsx
+*.csv
+*.json
+
+# Templates (if you want to keep them local only)
+*.html
+*.txt
+
+# Env file (your secrets)
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
