@@ -1,3 +1,5 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/gaiusrossini/email_auto_sender?style=flat-square)
+
 # 📧 Email Auto Sender
 
 Automate personalized email sending based on data from an Excel spreadsheet using Python.
